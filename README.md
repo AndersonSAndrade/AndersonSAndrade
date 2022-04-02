@@ -1,4 +1,7 @@
 ## Oiii! Eu sou Anderson S. Andrade 👋
+
+Domínio nas seguintes linguagens e Tecnologias: Java, Spring Boot, Spring Webflux, Jpa e Hibernate, Spring Data, Spring Security e JWT, Api Restfull, Mapeamento de Objetos com Modelmapper, Bean Validation, Restfull, ModelMapper, Bean Validation, Swagger, TDD e JUnit5, Mockito, Kafka (Produces, Consumers e Streams), Spring Clound Configuration, Spring Clound Actuator, Comunicação entre serviços com Faign, Ribbon, Discovery Server, Api Gateway, Banco Relacional (Mysql, Postgres, SqlServer, Oracle), Banco Não Relacional (MongoDB), DockerDocker, Aws EC2 Criação e manutenção.
+
 - 🔭 Trabalhando na Develcode.
 - ⏰ Desenvolvendo projetos Back-End e Front-End mobile.
 - 📖 Estudando novas tecnologias e aprimorando novas técnicas de desenvolvimento
